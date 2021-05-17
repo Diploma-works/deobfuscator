@@ -1,0 +1,3 @@
+cd /mnt/d/ITMO/4course/диплом/deobfuscator/
+conda activate deobfuscator
+jupyter notebook
