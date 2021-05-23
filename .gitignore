@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 
-/obfuscated/examples/.idea/
-/obfuscated/examples/playground/
+obfuscated/examples/.idea/
+obfuscated/examples/playground/
