@@ -5,22 +5,22 @@ In this researching project some obfuscations and deobfuscation methods were rea
 Those methods are running from Jupyter Notebook.
 To run notebook you need to add needed dependency through pip and run command:
 
-jupyter notebook
+***jupyter notebook***
 
 
 To make it more comfortable use conda.
 
 Project also uses these Python modules:
 
-codegen
-showast
-astpretty
-hashlib
-random_word
-cryptography
-token
-tokenize
+* codegen
+* showast
+* astpretty
+* hashlib
+* random_word
+* cryptography
+* token
+* tokenize
 
 To collect all needed dependencies run:
 
-pip install requirements.txt
+***pip install requirements.txt***
