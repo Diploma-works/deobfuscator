@@ -1,0 +1,7 @@
+codegen==1.0
+showast==0.2.4
+astpretty==2.1.0
+hashlib==20081119
+random_word==1.0.7
+cryptography==3.4.7
+token==1.8.6
