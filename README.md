@@ -23,4 +23,4 @@ Project also uses these Python modules:
 
 To collect all needed dependencies run:
 
-***pip install requirements.txt***
+***pip install -r requirements.txt***
